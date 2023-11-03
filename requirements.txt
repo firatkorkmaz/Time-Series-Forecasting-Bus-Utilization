@@ -1,0 +1,12 @@
+optuna
+datetime
+numpy
+pandas
+seaborn
+lightgbm
+scipy
+matplotlib
+hyperopt
+statsmodels
+scikit-learn
+jupyter
